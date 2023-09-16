@@ -1,3 +1,3 @@
-Practicás de redes neuronales
+Prácticas de redes neuronales
 
 Flores Rodriguez Alan Jomar
